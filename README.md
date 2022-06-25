@@ -2,4 +2,4 @@
 
 #### A snsapshot from the streamlit runtime.
 
-![assests/su8.PNG]
+![](assests/su8.PNG)
