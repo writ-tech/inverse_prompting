@@ -65,7 +65,7 @@ def main():
     )
 
     print(s)
-    st.write(s)
+    #st.write(s)
     ind=np.argmax(s)
     st.write('With inverse prompting:',m[ind])
     st.write('Without inverse prompting:',m[0])
