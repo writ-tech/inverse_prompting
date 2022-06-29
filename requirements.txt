@@ -3,4 +3,4 @@ numpy==1.23
 scikit-learn
 pandas==1.0.3
 transformers
-sentence-transfomers
+sentence-transformers
