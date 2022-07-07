@@ -1,6 +1,6 @@
 streamlit==0.82.0
-numpy==1.23
+numpy
 scikit-learn
-pandas==1.0.3
+pandas
 transformers
 sentence-transformers
